@@ -6,3 +6,5 @@ Smart Garden Kit
 Going to Paris DD
 Do not forget to save Remsey
 Now I am using Github Desktop and it will automatically recognizes changed saved files..ready to commit
+
+Another change has been made
