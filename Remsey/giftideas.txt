@@ -1,5 +1,6 @@
-Book: 'The Creative Act' by Rick Rubin
+Book: 'The Creative Act' by Rick Rubin\n (New Line)
 Wireless Headphones
 Spa Gift Card
 Personalized Mug
 Smart Garden Kit
+Going to Paris DD
